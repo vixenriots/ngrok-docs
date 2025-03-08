@@ -268,7 +268,7 @@ const sidebars = {
 					type: "category",
 					link: { type: "doc", id: "kubernetes/usage-guides/index" },
 					items: [
-						"kubernetes/usage-guides/index"
+						"kubernetes/usage-guides/index",
 						// TODO: Alice, more guides here
 					],
 				},
